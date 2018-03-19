@@ -1,0 +1,1 @@
+C:\Qt\Qt5.10.1\5.10.1\mingw53_32\bin\windeployqt.exe E:\Dev\Qt\Tr11VirtuosTools\Release

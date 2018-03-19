@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TestGUI</class>
+ <widget class="QWidget" name="TestGUI">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>144</width>
+    <height>99</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TestGUI</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="test1">
+     <property name="text">
+      <string>Splitter</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="test2">
+     <property name="text">
+      <string>Dialog</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="test3">
+     <property name="text">
+      <string>Test3</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
