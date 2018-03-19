@@ -38,9 +38,6 @@
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="MainGUI.qrc" />
-  </ItemGroup>
-  <ItemGroup>
     <QtUic Include="MainGUI.ui" />
     <QtUic Include="Test_1.ui">
       <Filter>Form Files</Filter>
