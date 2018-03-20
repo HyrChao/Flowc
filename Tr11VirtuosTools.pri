@@ -24,3 +24,4 @@ FORMS += ./MainGUI.ui \
     ./TestGUI.ui \
     ./Test_1.ui \
     ./Test_Cpp_01.ui
+RESOURCES += MainGUI.qrc
